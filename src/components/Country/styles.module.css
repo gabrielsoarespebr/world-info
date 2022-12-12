@@ -1,0 +1,12 @@
+.card{
+    width: 30vw;
+    height: 30vh;
+    border-radius: 2rem;
+
+    background-color: white;
+    box-shadow: 3px 3px 15px black;
+}
+
+.name{
+    font-size: 2rem;
+}
