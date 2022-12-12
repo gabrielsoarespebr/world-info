@@ -9,6 +9,7 @@ export const Header = () => {
                 <h1 className={styles.title}>World Info</h1>
             </div>
             <input type="search" placeholder="Insert country here." />
+            <a href="#" target="_blank">About</a>
 
         </header>
     )
