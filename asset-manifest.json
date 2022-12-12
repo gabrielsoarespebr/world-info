@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/world-info/static/css/main.c4df0690.css",
+    "main.js": "/world-info/static/js/main.67a25430.js",
+    "static/media/worldSpinning.gif": "/world-info/static/media/worldSpinning.1bf7eee24e01b215263b.gif",
+    "index.html": "/world-info/index.html",
+    "main.c4df0690.css.map": "/world-info/static/css/main.c4df0690.css.map",
+    "main.67a25430.js.map": "/world-info/static/js/main.67a25430.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4df0690.css",
+    "static/js/main.67a25430.js"
+  ]
+}
