@@ -4,6 +4,8 @@
     padding: 20px;
     margin-top: 30px;
 
+    overflow: auto;
+
     border-radius: 2rem;
 
     background-color: white;
@@ -16,7 +18,7 @@
 
 .grid{
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 2fr 3fr;
 }
 
 .flag {
@@ -28,6 +30,40 @@
 }
 
 .info{
-    font-size: 1.5em;
+    font-size: 1.4em;
     font-weight: 600;
+}
+
+.info > li {
+    margin-bottom: 10px;
+}
+
+/* SCROLL */
+
+.card::-webkit-scrollbar{
+    width: .5rem;
+}
+
+.card::-webkit-scrollbar-track-piece{
+    background-color: rgb(196, 195, 195);
+    border-radius: 10px;
+
+    margin-right: 5px;
+}
+
+.card::-webkit-scrollbar-track-piece:end{
+    margin-bottom: 40px;
+}
+
+.card::-webkit-scrollbar-track-piece:start{
+    margin-top: 40px;
+}
+
+.card::-webkit-scrollbar-thumb{
+    background-color: gray;
+    border-radius: 10px;
+}
+
+.card::-webkit-scrollbar-thumb:active{
+    background-color: rgb(85, 85, 85);
 }
