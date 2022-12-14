@@ -16,7 +16,7 @@ export const Home = () => {
       .catch(error => console.log(error))
   }, [])
   return (
-    <div className={styles.containerCards}>
+    <div id="containerCards" className={styles.containerCards}>
       {countries.map((countryData, key) => {
         return (<Country data={countryData} key={key} />)
       })}
