@@ -10,7 +10,7 @@ export const Header = () => {
                 <h1 className={styles.title}>World Info</h1>
             </div>
             <input id="headerSearchbar" type="search" placeholder="Insert country here." onChange={searchbar} />
-            <a href="#" target="_blank">About</a>
+            <a href="https://github.com/gabrielsoarespebr/world-info" target="_blank">About</a>
 
         </header>
     )

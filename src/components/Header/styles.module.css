@@ -31,3 +31,9 @@ input[type="search"]{
     font-size: 1.7rem;
     font-weight: 500;
 }
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 1.3rem;
+}
