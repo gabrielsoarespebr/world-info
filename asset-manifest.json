@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/world-info/static/css/main.e26b5cbe.css",
-    "main.js": "/world-info/static/js/main.0d7aa3b0.js",
+    "main.css": "/world-info/static/css/main.5e7e55a2.css",
+    "main.js": "/world-info/static/js/main.c85ebfd2.js",
     "static/media/worldSpinning.gif": "/world-info/static/media/worldSpinning.1bf7eee24e01b215263b.gif",
     "index.html": "/world-info/index.html",
-    "main.e26b5cbe.css.map": "/world-info/static/css/main.e26b5cbe.css.map",
-    "main.0d7aa3b0.js.map": "/world-info/static/js/main.0d7aa3b0.js.map"
+    "main.5e7e55a2.css.map": "/world-info/static/css/main.5e7e55a2.css.map",
+    "main.c85ebfd2.js.map": "/world-info/static/js/main.c85ebfd2.js.map"
   },
   "entrypoints": [
-    "static/css/main.e26b5cbe.css",
-    "static/js/main.0d7aa3b0.js"
+    "static/css/main.5e7e55a2.css",
+    "static/js/main.c85ebfd2.js"
   ]
 }
